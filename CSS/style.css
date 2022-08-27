@@ -1,0 +1,115 @@
+.nav-item{
+    padding-left:3%;
+    font-size: large;
+    color: #188AEC;
+}
+.heroimage{
+    height: 700px;
+    width: auto;
+    float: right;  
+}
+.title{
+    font-size: larger;
+    font-weight: 600;
+}
+.col-4{
+    padding: 8%;
+}
+.tagContainers{
+    display: flex;
+    margin: 3%;
+}
+.jumbotron{
+    background-color: white;
+}
+.tag{
+    height: 50px;
+    width: auto;
+}
+.problemStatement{
+    margin-top: 15%;
+}
+.centerText{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.ogItems{
+    margin-top: 1%;
+    margin-left: 5%;
+    font-size: large;
+    font-weight: 500;
+}
+.processCards{
+    margin-top: 5%;
+}
+.ourProcess{
+    justify-content: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .horizontalAlign{
+    display: flex;
+  }
+  .quantitative{
+    padding-left: 1%;
+  }
+  .blue{
+    color: #188AEC;
+  }
+  .red{
+    color: #DF430E;
+  }
+  .redArrow{
+    height: 50%;
+    width: auto;
+    margin-right: 1%;
+    margin-top: 1.5%;
+  }
+  .margin{
+    margin: 3%;
+  }
+  .list{
+    margin-top: 2%;
+  }
+  .grandparents{
+    float: right;
+    height: 100%;
+    width:auto;
+    margin-right: 1vw;
+  }
+  .mom{
+    height: 300px;
+    width: auto;
+  }
+  .dad{
+    height: 200px;
+    width: auto;
+    margin-left: -6vw;
+    margin-bottom: -8vw;
+  }
+  .gpContainer{
+    height: 200px;
+  }
+.productUsers{
+    text-align: center;
+}
+.bodyText{
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 1%;
+}
+.weGo{
+    width: 175px;
+}
+.getThe{
+    width: 150px
+}
+.mr-3{
+    height: 600px;
+    width: auto;
+}
